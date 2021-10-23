@@ -9,6 +9,6 @@ x_1 = 1
 
 fibo_list = [x_0, x_1]
 
-for a in range (48) :
+for a in range (13) :
     fibo_list.append(fibo_list[a] + fibo_list[a+1])
 
